@@ -1,6 +1,5 @@
 def sum(a,b):
-    result = a + b
-    return result
+    return a+b
 
 print(sum(3, 89))
 print(sum(4, 78))
